@@ -1,2 +1,3 @@
+flappy-bird-gym
 tensorflow==2.6.0
 rich
