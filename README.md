@@ -12,4 +12,4 @@ If you want to train this model on your own, just change to `agent.train()` in `
 
 ## Outputs
 
-![flappy bird]("./output.png")
+![flappy bird](https://github.com/Anyesh/ai-plays-flappybird/blob/master/output.png)
