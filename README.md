@@ -11,3 +11,5 @@ First install the pip requirements and run `main.py` to see how our agent plays 
 If you want to train this model on your own, just change to `agent.train()` in `main.py` file and you are good to go. You can see the progress on the console displayed using `rich`.
 
 ## Outputs
+
+![flappy bird]("./output.png")
