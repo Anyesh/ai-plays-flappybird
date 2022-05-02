@@ -123,7 +123,7 @@ class DQNAgent:
                 state = np.reshape(next_state, [1, self.state_space])
                 score += 1
 
-                console.print("Current Score: {}".format(score), end="\r")
+                console.print(f"Current Score: {score}", end="\r")
 
                 if done:
                     console.print("Bird is dead!", style="bold red")
